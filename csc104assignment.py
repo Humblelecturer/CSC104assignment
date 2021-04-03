@@ -1,7 +1,8 @@
 '''Write a short python code to display the name of your name and department'''
 name = "Muhammad Shehu"
 department = "computer science"
-print(name,"\n",department,)
+print(name)
+Print(department)
 '''Assign the string "Boo!" to the variable scare and print the variable'''
 scare = "Boo!"
 print (scare)
